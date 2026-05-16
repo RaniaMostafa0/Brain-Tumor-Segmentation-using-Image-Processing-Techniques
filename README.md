@@ -173,8 +173,3 @@ Each image is processed and visualized across 16 stages:
 **White Top-Hat Transform** — extracts small bright features from an image by subtracting the result of a morphological opening from the original image.
 
 **Watershed Segmentation** — treats the image as a topographic surface and simulates flooding from seed points to find region boundaries.
-
----
-**[Your Name]**  
-Computer Science / Biomedical Imaging  
-[LinkedIn] • [GitHub]
